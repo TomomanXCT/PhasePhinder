@@ -23,3 +23,4 @@ Figure 2: Front panel of PhasePhinder.exe
 The user simply chooses the voltage range and the optical magnification they are using which triggers variables in the code and lets the application know which parameters to look up. 
 The user then sets a number into “Source to sample distance (mm)” in millimeters and presses “Find phase region”. This will give the user the distance to place their detector for optimal PCI in the lab-based XCT. 
 This front panel acts as an interactive look up table for the plots in Figure 1 which give the optimal region for propagation-based PCI. 
+
