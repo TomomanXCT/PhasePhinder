@@ -1,4 +1,3 @@
-INTRODUCTION:
 PhasePhinder: An Open-Sourced App for Propagation-Based Phase Contrast in Lab XCT 
  
 ![image](https://github.com/user-attachments/assets/fa3ac867-4e77-4aa1-abbe-e5acab67bb6c)
