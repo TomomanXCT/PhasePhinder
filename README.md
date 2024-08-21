@@ -2,6 +2,7 @@ INTRODUCTION:
 PhasePhinder: An Open-Sourced App for Propagation-Based Phase Contrast in Lab XCT 
  
 ![image](https://github.com/user-attachments/assets/fa3ac867-4e77-4aa1-abbe-e5acab67bb6c)
+
 Phase contrast imaging (PCI) significantly enhances the visualization of internal structures in X-ray computed tomography (XCT) by exploiting variations in phase shifts rather than absorption contrast. However, achieving optimal phase contrast requires precise alignment and positioning of the detector and the source, which can be challenging in laboratory settings. To address this, PhasePhinder, an open-source application designed to simplify the propagation-based PCI setup in lab-based XCT systems was developed. 
  
 PhasePhinder takes the optical magnification and source distance parameters from the ZEISS Xradia Versa XCT system and calculates the optimal region for placing the detector to maximize phase contribution. By automating these calculations, the application reduces the complexity and time required for setup, enabling users to achieve high-quality PCI more efficiently. 
@@ -11,6 +12,8 @@ The application was tested in various experiments to validate its accuracy, cons
 ![image](https://github.com/user-attachments/assets/56e24f40-3906-465c-b950-8dde6598e4b7)
    
 Figure 1: Trendlines of Source-Sample-Detector distances for optimal propagation-based PCI in Versa XCT.  
+
+
 
 INSTALLATION:
 
