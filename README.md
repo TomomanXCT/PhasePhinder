@@ -10,7 +10,7 @@ The application was tested in various experiments to validate its accuracy, cons
 
 ![image](https://github.com/user-attachments/assets/56e24f40-3906-465c-b950-8dde6598e4b7)
    
-^ Figure 1: Trendlines of Source-Sample-Detector distances for optimal propagation-based PCI in Versa XCT.*  
+Figure 1: Trendlines of Source-Sample-Detector distances for optimal propagation-based PCI in Versa XCT. 
 
 
 
@@ -23,7 +23,7 @@ Once the application is installed the following display will appear.
 
 ![image](https://github.com/user-attachments/assets/5b9aefbe-b119-4067-8f5f-fe398b9a9dee)
  
-* Figure 2: Front panel of PhasePhinder.exe *
+Figure 2: Front panel of PhasePhinder.exe 
 
 The user simply chooses the voltage range and the optical magnification they are using which triggers variables in the code and lets the application know which parameters to look up. 
 The user then sets a number into “Source to sample distance (mm)” in millimeters and presses “Find phase region”. This will give the user the distance to place their detector for optimal PCI in the lab-based XCT. 
