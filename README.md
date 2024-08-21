@@ -1,4 +1,4 @@
-#PhasePhinder: An Open-Sourced App for Propagation-Based Phase Contrast in Lab XCT 
+# PhasePhinder: An Open-Sourced App for Propagation-Based Phase Contrast in Lab XCT 
  
 ![image](https://github.com/user-attachments/assets/fa3ac867-4e77-4aa1-abbe-e5acab67bb6c)
 
@@ -14,7 +14,7 @@ Figure 1: Trendlines of Source-Sample-Detector distances for optimal propagation
 
 
 
-#INSTALLATION:
+# INSTALLATION:
 
 The PhasePhinder app (PhasePhinder.exe) should be downloaded with the “phasy_new.ico” and kept in the same folder. 
 PhasePhinder.exe calls on phasy_new.ico as the applications icon, a friendly ghost named Phasy!
